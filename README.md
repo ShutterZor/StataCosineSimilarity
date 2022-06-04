@@ -4,7 +4,7 @@ Calculating cosine similarity with Stata
 
 
 $$
-cosine\ similarity = \frac{\bold{A}\cdot\bold{B}}{||\bold{A}||\times ||\bold{B}||}=\frac{\sum_{i=1}^{n}A_i\times B_i}{\sqrt{\sum_{i=1}^{n}(A_i)^2}\sqrt{\sum_{i=1}^{n}(B_i)^2}}
+cosine\ similarity = \frac{\boldsymbol{A}\cdot\boldsymbol{B}}{||\boldsymbol{A}||\times ||\boldsymbol{B}||}=\frac{\sum_{i=1}^{n}A_i\times B_i}{\sqrt{\sum_{i=1}^{n}(A_i)^2}\sqrt{\sum_{i=1}^{n}(B_i)^2}}
 $$
 
 
